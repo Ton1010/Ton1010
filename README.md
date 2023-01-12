@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ton1010
+- 👀 I’m interested in python's projects
+- 🌱 I’m currently learning data science on python
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me antonio.henao@correounivalle.edu.co
